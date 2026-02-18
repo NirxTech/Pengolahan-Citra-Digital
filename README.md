@@ -8,8 +8,12 @@ Interested in trying out the code in this repository? Follow these simple steps.
    pip install opencv-python numpy matplotlib
 3. Done, you can now explore all the code in this repository.
 
-**Author Profil**
-Btw, here is a brief profile of the repo manager:
-**Nama:** Muhammad Zahran
-**NIM:** 24343077
-**Study Program:** Informatics, UNP
+### Author Profile
+Btw, here is a brief profile of the repository manager:
+
+| Detail | Information |
+| :--- | :--- |
+| **Name** | Muhammad Zahran |
+| **NIM** | 24343077 |
+| **Study Program** | Informatics, Universitas Negeri Padang |
+| **Focus** | Digital Image Processing & Software Development |
