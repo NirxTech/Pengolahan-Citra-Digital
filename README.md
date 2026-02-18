@@ -16,4 +16,3 @@ Btw, here is a brief profile of the repository manager:
 | **Name** | Muhammad Zahran |
 | **NIM** | 24343077 |
 | **Study Program** | Informatics, Universitas Negeri Padang |
-| **Focus** | Digital Image Processing & Software Development |
