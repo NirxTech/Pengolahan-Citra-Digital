@@ -1,0 +1,40 @@
+{
+  "dataset_source": "sklearn.load_digits",
+  "sample_count": 1000,
+  "feature_shapes": {
+    "hog": [
+      1000,
+      36
+    ],
+    "lbp": [
+      1000,
+      10
+    ],
+    "combined": [
+      1000,
+      46
+    ]
+  },
+  "feature_quality_cv": {
+    "hog": 0.7530000000000001,
+    "lbp": 0.315,
+    "combined": 0.7899999999999999
+  },
+  "knn_best_params": {
+    "knn__metric": "minkowski",
+    "knn__n_neighbors": 11,
+    "knn__p": 3
+  },
+  "knn_best_cv_accuracy": 0.7928571428571428,
+  "knn_test_accuracy": 0.7766666666666666,
+  "svm_best_params": {
+    "svc__C": 0.1,
+    "svc__coef0": 1.0,
+    "svc__degree": 3,
+    "svc__gamma": "scale",
+    "svc__kernel": "poly"
+  },
+  "svm_best_cv_accuracy": 0.8642857142857142,
+  "svm_test_accuracy": 0.8566666666666667,
+  "winner": "SVM"
+}
